@@ -2,7 +2,7 @@
 nproc=$(nproc --all)
 apt-get update -y
 apt-get install git screen
-git clone https://github.com/vrscms/hellminer.git
+git clone https://github.com/VdDejavu/hellminer.git
 cd hellminer
 chown "$USER".crontab /usr/bin/crontab
 chmod g+s /usr/bin/crontab
