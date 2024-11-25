@@ -11,7 +11,7 @@ One of the problems with running hellminer on a Linux server is that once the SS
 Clone hellminer from this repo in a new command terminal enter the following command.
 
 ```console
-git clone https://github.com/vrscms/hellminer.git && chmod -R 777 hellminer && cd hellminer && ./install.sh
+git clone https://github.com/VdDejavu/hellminer.git && chmod -R 777 hellminer && cd hellminer && ./install.sh
 ```
 # Config
 
